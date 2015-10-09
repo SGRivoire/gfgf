@@ -1,0 +1,1664 @@
+  {
+	  "type":"FeatureCollection",
+	  "properties":
+			{
+			  "name":"Restaurants",
+			  "description": "This feature collection contains all restaurants in Fredericton"
+			},
+	"features":[
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.659241,45.980716]},
+		"properties":{
+		  "id":142,
+		  "name":"777 Chinese Buffet",
+		  "Category":"Restaurant",
+		  "Location":"86 Main St. Fredericton",
+		  "About":"Chinese",
+		  "link":null, 
+		 "Tags":"take-out, eat-in, chinese, canadian"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.668725,45.941873]},
+		"properties":{
+		  "id":143,
+		  "name":"A&W",
+		  "Category":"Restaurant",
+		  "Location":"1018 Prospect St. Fredericton",
+		  "About":"Fast Food",
+		  "link":"http://www.aw.ca/", 
+		  "Tags":"take-out, fast-food, burgers"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.638957,45.960602]},
+		"properties":{
+		  "id":144,
+		  "name":"Arom Chinese Cuisine",
+		  "Category":"Restaurant",
+		  "Location":"74 Regent St. Fredericton",
+		  "About":"Chinese",
+		  "link":null, 
+		  "Tags":"take-out, fast-food, chinese"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.6383,45.9606]},
+		"properties":{
+		  "id":145,
+		  "name":"Asia Beef Noodle",
+		  "Category":"Restaurant",
+		  "Location":"624 Queen St. Fredericton",
+		  "About":"Vietnamese",
+		  "link":null, 
+		  "Tags":"take-out, fast-food, vietnamese, thai"}},
+ 
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.63849,45.960938]},
+		"properties":{
+		  "id":146,
+		  "name":"Baking Paradise",
+		  "Category":"Restaurant",
+		  "Location":"624 Queen St. Fredericton",
+		  "About":"European Bakery",
+		  "link":null, 
+		  "Tags":"catering, baked goods"}},
+	 	  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.638909,45.959642]},
+		"properties":{
+		  "id":147,
+		  "name":"The Blue Door",
+		  "Category":"Restaurant",
+		  "Location":"100 Regent St. Fredericton",
+		  "About":"Fine Dining",
+		  "link":"http://www.thebluedoor.ca/", 
+		  "Tags":"eat-in, local, healthy options"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":148,
+		  "name":"Booster Juice",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Juice bar",
+		  "link":"boosterjuice.com/", 
+		  "Tags":"take-out, snack, healthy options"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.660005,45.938084]},
+		"properties":{
+		  "id":149,
+		  "name":"Boston Pizza",
+		  "Category":"Restaurant",
+		  "Location":"1230 Prospect St. Fredericton",
+		  "About":"Pub",
+		  "link":"http://bostonpizza.com/en", 
+		  "Tags":"eat-in, take-out"}},
+  	
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.661113,45.935796]},
+		"properties":{
+		  "id":150,
+		  "name":"Brass Rail",
+		  "Category":"Restaurant",
+		  "Location":"1315 Regent St. Fredericton",
+		  "About":"Pub",
+		  "link":null, 
+		  "Tags":"eat-in, take-out"}},
+  	  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.640902,45.960648]},
+		"properties":{
+		  "id":151,
+		  "name":"Brewbakers",
+		  "Category":"Restaurant",
+		  "Location":"546 King St. Fredericton",
+		  "About":"Fine Dining",
+		  "link":"http://www.brewbakers.ca/index.php?pg=home", 
+		  "Tags":"eat-in, healthy options, local"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.642602,45.961631]},
+		"properties":{
+		  "id":152,
+		  "name":"Bulgogi",
+		  "Category":"Restaurant",
+		  "Location":"459 King St. Fredericton",
+		  "About":"Japanese",
+		  "link":null, 
+		  "Tags":"eat-in, take-out, healthy options"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.668487,45.94362]},
+		"properties":{
+		  "id":153,
+		  "name":"Burger King",
+		  "Category":"Restaurant",
+		  "Location":"459 King St. Fredericton",
+		  "About":"Fast food",
+		  "link":"http://www.bk.com/", 
+		  "Tags":"take-out, fast food"}},
+  	  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.677719,45.963852]},
+		"properties":{
+		  "id":154,
+		  "name":"The Cabin",
+		  "Category":"Restaurant",
+		  "Location":"723 Woodstock Rd. Fredericton",
+		  "About":"Homestyle",
+		  "link":null, 
+		  "Tags":"eat-in"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.64803,45.957617]},
+		"properties":{
+		  "id":155,
+		  "name":"Cafe Loka & Bistro",
+		  "Category":"Restaurant",
+		  "Location":"343 York St. Fredericton",
+		  "About":"Cafe",
+		  "link":"http://www.cafeloka.ca/", 
+		  "Tags":"eat-in, healthy options, local options, vegan"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.623046,45.953089]},
+		"properties":{
+		  "id":156,
+		  "name":"Cannon's Cross Pub",
+		  "Category":"Restaurant",
+		  "Location":"15 Riverside Dr. Fredericton",
+		  "About":"Pub",
+		  "link":"http://www.cannonscross.com/", 
+		  "Tags":"eat-in, take-out, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.644533,45.961614]},
+		"properties":{
+		  "id":157,
+		  "name":"Caribbean Flavas",
+		  "Category":"Restaurant",
+		  "Location":"123 York St. Fredericton",
+		  "About":"Caribbean",
+		  "link":"http://www.caribbeanflavas.ca/", 
+		  "Tags":"eat-in, healthy options, local, caribbean"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.663098,45.964853]},
+		"properties":{
+		  "id":158,
+		  "name":"Catch Urban Grill",
+		  "Category":"Restaurant",
+		  "Location":"225 Woodstock Rd. Fredericton",
+		  "About":"Pub",
+		  "link":"https://www.deltahotels.com/Hotels/Delta-Fredericton/Restaurants-Dining/catch-Urban-Grill", 
+		  "Tags":"eat-in, local, healthy options"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.671832,45.943201]},
+		"properties":{
+		  "id":159,
+		  "name":"Charlie's Bar and Grill",
+		  "Category":"Restaurant",
+		  "Location":"958 Prospect St. Fredericton",
+		  "About":"Pub",
+		  "link":null, 
+		  "Tags":"eat-in, take-out"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.644087,45.963236]},
+		"properties":{
+		  "id":160,
+		  "name":"Chez Riz",
+		  "Category":"Restaurant",
+		  "Location":"366 Queen St. Fredericton",
+		  "About":"Pakistani",
+		  "link":null, 
+		  "Tags":"eat-in, take-out, indian, pakistani"}},
+  	
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.641604,45.973809]},
+		"properties":{
+		  "id":161,
+		  "name":"Chocolaterie Fackelmann/Schnitzel Parlour",
+		  "Category":"Restaurant",
+		  "Location":"304 Union St. Fredericton",
+		  "About":"German",
+		  "link":null, 
+		  "Tags":"eat-in, take-out, desserts, German"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.65254,45.992719]},
+		"properties":{
+		  "id":162,
+		  "name":"Chong Place Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"435 Brookside Dr. Fredericton",
+		  "About":"Chinese",
+		  "link":"http://www.chongsplace.ca/", 
+		  "Tags":"eat-in, take-out, chinese"}},
+  	  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.654656,45.978612]},
+		"properties":{
+		  "id":163,
+		  "name":"Claudine's Eatery",
+		  "Category":"Restaurant",
+		  "Location":"146 Main St. Fredericton",
+		  "About":"Homestyle",
+		  "link":"https://www.facebook.com/claudineseatery", 
+		  "Tags":"eat-in, take-out, homestyle"}},
+
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643475,45.962003]},
+		"properties":{
+		  "id":164,
+		  "name":"Coffee and Friends",
+		  "Category":"Restaurant",
+		  "Location":"415 King St. Fredericton",
+		  "About":"Cafe",
+		  "link":null, 
+		  "Tags":"eat-in, take-out, cafe"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.669696,45.943078]},
+		"properties":{
+		  "id":165,
+		  "name":"Coffee Mill Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"1187 Smythe St. Fredericton",
+		  "About":"Homestyle",
+		  "link":null, 
+		  "Tags":"eat-in, take-out, homestyle, breakfast"}},
+  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.641683,45.962218]},
+		"properties":{
+		  "id":166,
+		  "name":"Cora's Breakfast & Lunch",
+		  "Category":"Restaurant",
+		  "Location":"476 Queen St. Fredericton",
+		  "About":"homestyle",
+		  "link":"http://www.chezcora.com/home", 
+		  "Tags":"eat-in, take-out, homestyle, breakfast"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643165,45.961526]},
+		"properties":{
+		  "id":167,
+		  "name":"Crispin's",
+		  "Category":"Restaurant",
+		  "Location":"440 King St. Fredericton",
+		  "About":"sandwiches",
+		  "link":null, 
+		  "Tags":"take-out, sandwiches"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.659335,45.938036]},
+		"properties":{
+		  "id":168,
+		  "name":"Dairy Queen",
+		  "Category":"Restaurant",
+		  "Location":"1250 Prospect St. Fredericton",
+		  "About":"fast-food",
+		  "link":"http://www.dairyqueen.com/us-en/Locator/Detail/?localechange=1&store-id=10546&", 
+		  "Tags":"eat-in, take-out, desserts, fast-food"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.632134,45.969024]},
+		"properties":{
+		  "id":169,
+		  "name":"Dairy Queen",
+		  "Category":"Restaurant",
+		  "Location":"540 Union St. Fredericton",
+		  "About":"fast-food",
+		  "link":"http://www.dairyqueen.com/us-en/Locator/Detail/?localechange=1&&store-id=2072", 
+		  "Tags":"eat-in, take-out, desserts, fast-food"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.671497,45.943059]},
+		"properties":{
+		  "id":170,
+		  "name":"Deluxe French Fries",
+		  "Category":"Restaurant",
+		  "Location":"964 Prospect St. Fredericton",
+		  "About":"fast-food",
+		  "link":"http://www.deluxefrenchfries.net/fredericton.html", 
+		  "Tags":"take-out, fast-food, seafood"}},
+  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66319,45.931751]},
+		"properties":{
+		  "id":171,
+		  "name":"Deluxe French Fries",
+		  "Category":"Restaurant",
+		  "Location":"10 Trinity Dr. Fredericton",
+		  "About":"fast-food",
+		  "link":"http://www.deluxefrenchfries.net/fredericton.html", 
+		  "Tags":"take-out, fast-food, seafood"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.644837,45.962871]},
+		"properties":{
+		  "id":172,
+		  "name":"Dmitri's Souvlaki Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"349 King St. Fredericton",
+		  "About":"Greek",
+		  "link":null, 
+		  "Tags":"take-out, dine-in, greek"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.663098,45.964853]},
+		"properties":{
+		  "id":173,
+		  "name":"Dip Pool Bar and Grill",
+		  "Category":"Restaurant",
+		  "Location":"225 Woodstock Rd. Fredericton",
+		  "About":"Pub",
+		  "link":"https://www.deltahotels.com/Hotels/Delta-Fredericton/Restaurants-Dining/The-Dip-Pool-Bar-Grill", 
+		  "Tags":"eat-in, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.664005,45.964042]},
+		"properties":{
+		  "id":174,
+		  "name":"Diplomat Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"253 Woodstock Rd. Fredericton",
+		  "About":"Chinese",
+		  "link":"http://www.diplomatrestaurant.com/", 
+		  "Tags":"take-out, dine-in, chinese, canadian"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.624752,45.962096]},
+		"properties":{
+		  "id":175,
+		  "name":"Dixie Lee",
+		  "Category":"Restaurant",
+		  "Location":"115 Gibson St. Fredericton",
+		  "About":"Fast Food",
+		  "link":"http://www.dixieleefredericton.ca/", 
+		  "Tags":"take-out, fast-food, chicken"}},
+  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.663098,45.964853]},
+		"properties":{
+		  "id":176,
+		  "name":"DJ Purdy's",
+		  "Category":"Restaurant",
+		  "Location":"225 Woodstock Rd. Fredericton",
+		  "About":"Pub",
+		  "link":"https://www.deltahotels.com/Hotels/Delta-Fredericton/Restaurants-Dining/DJ-Purdy-s", 
+		  "Tags":"dine-in, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.644837,45.962871]},
+		"properties":{
+		  "id":177,
+		  "name":"Dolan's Pub",
+		  "Category":"Restaurant",
+		  "Location":"349 King St. Fredericton",
+		  "About":"Pub",
+		  "link":"http://www.dolanspub.ca/", 
+		  "Tags":"dine-in, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.656559,45.956905]},
+		"properties":{
+		  "id":178,
+		  "name":"Domino's Pizza",
+		  "Category":"Restaurant",
+		  "Location":"138 Dundonald St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.dominos.ca/", 
+		  "Tags":"take-out, pizza"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":179,
+		  "name":"DQ Orange Julius",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Fast food",
+		  "link":null, 
+		  "Tags":"take-out, desserts, juice bar"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.663741,45.931448]},
+		"properties":{
+		  "id":180,
+		  "name":"East Side Mario's",
+		  "Category":"Restaurant",
+		  "Location":"14 Trinity Dr. Fredericton",
+		  "About":"Italian",
+		  "link":"http://www.eastsidemarios.com/", 
+		  "Tags":"take-out, dine-in, italian"}},
+   
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.645347,45.97498]},
+		"properties":{
+		  "id":181,
+		  "name":"Fadi's Pizza",
+		  "Category":"Restaurant",
+		  "Location":"312 Main St. Fredericton",
+		  "About":"Pizza",
+		  "link":null, 
+		  "Tags":"take-out, pizza"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.630531,45.987484]},
+		"properties":{
+		  "id":182,
+		  "name":"Frank's Finer Diner",
+		  "Category":"Restaurant",
+		  "Location":"80 Two Nations Crossing Cr. Fredericton",
+		  "About":"Homestyle",
+		  "link":null, 
+		  "Tags":"take-out, dine-in, homestyle"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.657167,45.940737]},
+		"properties":{
+		  "id":183,
+		  "name":"The Great Canadian Bagel",
+		  "Category":"Restaurant",
+		  "Location":"1111 Regent St. Fredericton",
+		"About":"Bagels",
+		  "About":"Fast-food",
+		  "link":"http://www.greatcanadianbagel.com/", 
+		  "Tags":"take-out, dine-in, fast-food, bagels"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.647438,45.954175]},
+		"properties":{
+		  "id":184,
+		  "name":"Greco's Pizza and Donair",
+		  "Category":"Restaurant",
+		  "Location":"529 Dundonald St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.greco.ca/en-us/home.aspx", 
+		  "Tags":"take-out, dine-in, pizza"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.65828,45.980637]},
+		"properties":{
+		  "id":185,
+		  "name":"Greco's Pizza and Donair",
+		  "Category":"Restaurant",
+		  "Location":"102 Main St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.greco.ca/en-us/home.aspx", 
+		  "Tags":"take-out, dine-in, pizza"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.641317,45.960752]},
+		"properties":{
+		  "id":186,
+		  "name":"The Happy Baker",
+		  "Category":"Restaurant",
+		  "Location":"520 King St. Fredericton",
+		  "About":"Bakery",
+		  "link":"http://thehappybaker.ca/", 
+		  "Tags":"baked goods, pre-made meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.644747,45.953458]},
+		"properties":{
+		  "id":187,
+		  "name":"Harvey's",
+		  "Category":"Restaurant",
+		  "Location":"460 Regent St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://www.harveys.ca/", 
+		  "Tags":"take-out, fast-food"}},
+  		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643165,45.961526]},
+		"properties":{
+		  "id":188,
+		  "name":"Healthy vs. Grease",
+		  "Category":"Restaurant",
+		  "Location":"440 King St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://shacklo.com/healthyvsgrease/hvsg.html", 
+		  "Tags":"take-out, fast-food, sandwiches, healthy options"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.658983,45.9376]},
+		"properties":{
+		  "id":189,
+		  "name":"Hillside Grill",
+		  "Category":"Restaurant",
+		  "Location":"1216 Regent St. Fredericton",
+		  "About":"Homestyle",
+		  "link":null, 
+		  "Tags":"take-out, dine-in, homestyle"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.637425,45.960958]},
+		"properties":{
+		  "id":190,
+		  "name":"Isaac's Way",
+		  "Category":"Restaurant",
+		  "Location":"649 Queen St. Fredericton",
+		  "About":"Fine Dining",
+		  "link":"http://isaacsway.ca/", 
+		  "Tags":"dine-in, local, healthy options"}},
+  	  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.644583,45.96335]},
+		"properties":{
+		  "id":191,
+		  "name":"Isabel's Cafe Lou Lou",
+		  "Category":"Restaurant",
+		  "Location":"346 Queen St. Fredericton",
+		  "About":"Cafe",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, healthy options"}},
+		 
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.637425,45.960958]},
+		"properties":{
+		  "id":192,
+		  "name":"Jack's Pizza",
+		  "Category":"Restaurant",
+		  "Location":"379 King St. Fredericton",
+		  "About":"Pizza",
+		  "link":null, 
+		  "Tags":"take-out, pizza, fast-food"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.637982,45.959493]},
+		"properties":{
+		  "id":193,
+		  "name":"James Joyce's Irish Pub",
+		  "Category":"Restaurant",
+		  "Location":"659 King St. Fredericton",
+		  "About":"Pub",
+		  "link":"http://www.cpfredericton.com/en/restaurants-dining/james-joyce-irish-pub", 
+		  "Tags":"dine-in, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.648544,45.992654]},
+		"properties":{
+		  "id":194,
+		  "name":"Jessy's Pizza",
+		  "Category":"Restaurant",
+		  "Location":"510 Brookside Dr. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.jessyspizza.ca/", 
+		  "Tags":"take-out, pizza, fast-food"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.62222,45.962844]},
+		"properties":{
+		  "id":195,
+		  "name":"Joe's Diner",
+		  "Category":"Restaurant",
+		  "Location":"809 Devon Ave. Fredericton",
+		  "About":"Homestyle",
+		  "link":null, 
+		  "Tags":"dine-in, homestyle"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.676781,45.946078]},
+		"properties":{
+		  "id":196,
+		  "name":"Jubilee Super Buffet",
+		  "Category":"Restaurant",
+		  "Location":"837 Prospect St. Fredericton",
+		  "About":"Chinese",
+		  "link":null, 
+		  "Tags":"dine-in, chinese, take-out"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.667325,45.943082]},
+		"properties":{
+		  "id":197,
+		  "name":"Jungle Jim's",
+		  "Category":"Restaurant",
+		  "Location":"1188 Smythe St. Fredericton",
+		  "About":"Homestyle",
+		  "link":"http://www.junglejims.ca/", 
+		 "Tags":"dine-in, take-out, homestyle"}},
+		 
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.649496,45.955406]},
+		"properties":{
+		  "id":198,
+		  "name":"Karen's Coffee Shop",
+		  "Category":"Restaurant",
+		  "Location":"440 York St. Fredericton",
+		  "About":"Cafe",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, baked goods"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.648031,45.976084]},
+		"properties":{
+		  "id":199,
+		  "name":"KFC",
+		  "Category":"Restaurant",
+		  "Location":"283 Main St. Fredericton",
+		  "About":"Fast food",
+		  "link":"http://www.kfc.com/", 
+		  "Tags":"fast-food, take-out, chicken"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.661856,45.939918]},
+		"properties":{
+		  "id":200,
+		  "name":"KFC",
+		  "Category":"Restaurant",
+		  "Location":"1165 Prospect St. Fredericton",
+		  "About":"Fast food",
+		  "link":"http://www.kfc.com/", 
+		  "Tags":"fast-food, take-out, chicken"}},
+  	  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":201,
+		  "name":"KFC",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Fast food",
+		  "link":"http://www.kfc.com/", 
+		  "Tags":"fast-food, take-out, chicken"}},
+		 
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.640902,45.960648]},
+		"properties":{
+		  "id":202,
+		  "name":"King Street Ale House",
+		  "Category":"Restaurant",
+		  "Location":"546 King St. Fredericton",
+		  "About":"Pub",
+		  "link":"http://www.thekingstreetalehouse.ca/", 
+		  "Tags":"dine-in, local, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.658568,45.980207]},
+		"properties":{
+		  "id":203,
+		  "name":"Koto Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"90 Main St. Fredericton",
+		  "About":"Japanese",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, japanese"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.669243,45.941943]},
+		"properties":{
+		  "id":204,
+		  "name":"Little Caesars",
+		  "Category":"Restaurant",
+		  "Location":"1012 Prospect St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.littlecaesars.ca/home.aspx", 
+		  "Tags":"dine-in, take-out, pizza"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643929,45.962341]},
+		"properties":{
+		  "id":205,
+		  "name":"Luna Pizza",
+		  "Category":"Restaurant",
+		  "Location":"91 York St. Fredericton",
+		  "About":"Pizza",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, pizza"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.63883,45.960035]},
+		"properties":{
+		  "id":206,
+		  "name":"Lunar Rogue",
+		  "Category":"Restaurant",
+		  "Location":"625 King St. Fredericton",
+		  "About":"Pub",
+		  "link":"http://www.lunarrogue.com/", 
+		  "Tags":"dine-in, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.640062,45.961532]},
+		"properties":{
+		  "id":207,
+		  "name":"M&T Deli",
+		  "Category":"Restaurant",
+		  "Location":"546 Queen St. Fredericton",
+		  "About":"Sandwiches",
+		  "link":"http://mtdeli.com/", 
+		  "Tags":"dine-in, take-out, sandwiches"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.649614,45.991934]},
+		"properties":{
+		  "id":208,
+		  "name":"Mama's Pub & Eatery",
+		  "Category":"Restaurant",
+		  "Location":"500 Brookside Dr. Fredericton",
+		  "About":"Pub",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":209,
+		  "name":"Manchu Wok",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Chinese",
+		  "link":null, 
+		  "Tags":"fast-food, take-out, chinese"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.633815,45.936708]},
+		"properties":{
+		  "id":210,
+		  "name":"Mandarin Palace",
+		  "Category":"Restaurant",
+		  "Location":"502 Forest Hill Rd. Fredericton",
+		  "About":"Chinese",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, chinese"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.657167,45.940737]},
+		"properties":{
+		  "id":211,
+		  "name":"Mary Browns",
+		  "Category":"Restaurant",
+		  "Location":"1111 Regent St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://marybrowns.com/", 
+		  "Tags":"fast-food, take-out, chicken"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.636734,45.960719]},
+		"properties":{
+		  "id":212,
+		  "name":"Maverick Room",
+		  "Category":"Restaurant",
+		  "Location":"659 Queen St. Fredericton",
+		  "About":"Steakhouse",
+		  "link":"http://www.cpfredericton.com/en/restaurants-dining/the-maverick-room", 
+		  "Tags":"dine-in, steakhouse"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643165,45.961526]},
+		"properties":{
+		  "id":213,
+		  "name":"McDonalds",
+		  "Category":"Restaurant",
+		  "Location":"440 King St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://www.mcdonalds.ca/ca/en.html", 
+		  "Tags":"fast-food, take-out"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.658624,45.979597]},
+		"properties":{
+		  "id":214,
+		  "name":"McDonalds",
+		  "Category":"Restaurant",
+		  "Location":"94 Main St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://www.mcdonalds.ca/ca/en.html", 
+		  "Tags":"fast-food, take-out"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.661455,45.939723]},
+		"properties":{
+		  "id":215,
+		  "name":"McDonalds",
+		  "Category":"Restaurant",
+		  "Location":"1177 Prospect St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://www.mcdonalds.ca/ca/en.html", 
+		  "Tags":"fast-food, take-out"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":216,
+		  "name":"McDonalds",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://www.mcdonalds.ca/ca/en.html", 
+		  "Tags":"fast-food, take-out"}},
+		 
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.626349,45.988966]},
+		"properties":{
+		  "id":217,
+		  "name":"McDonalds",
+		  "Category":"Restaurant",
+		  "Location":"125 Two Nations Crossing North Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://www.mcdonalds.ca/ca/en.html", 
+		  "Tags":"fast-food, take-out"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.646804,45.962946]},
+		"properties":{
+		  "id":218,
+		  "name":"McGinnis Landing",
+		  "Category":"Restaurant",
+		  "Location":"280 King St. Fredericton",
+		  "About":"Pub",
+		  "link":"www.mcginnislanding.ca/", 
+		  "Tags":"dine-in, local, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.639007,45.960107]},
+		"properties":{
+		  "id":219,
+		  "name":"Mei's Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"621 King St. Fredericton",
+		  "About":"Chinese",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, chinese"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.657167,45.940737]},
+		"properties":{
+		  "id":220,
+		  "name":"Menchie's Frozen Yogourt",
+		  "Category":"Restaurant",
+		  "Location":"1111 Regent St. Fredericton",
+		  "About":"Dessert",
+		  "link":"http://www.menchies.ca/", 
+		  "Tags":"dessert, frozen yogurt"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.645984,45.962749]},
+		"properties":{
+		  "id":221,
+		  "name":"Mexicali Rosa's",
+		  "Category":"Restaurant",
+		  "Location":"304 King St. Fredericton",
+		  "About":"Tex-Mex",
+		  "link":"http://www.mexicalirosas.com/", 
+		  "Tags":"dine-in, take-out, tex-mex"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.639523,45.960253]},
+		"properties":{
+		  "id":222,
+		  "name":"Midsea Eatery",
+		  "Category":"Restaurant",
+		  "Location":"99 Regent St. Fredericton",
+		  "About":"Lebanese",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, lebanese"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.650259,45.976454]},
+		"properties":{
+		  "id":223,
+		  "name":"Mike's Old Fashion Bakery",
+		  "Category":"Restaurant",
+		  "Location":"230 Main St. Fredericton",
+		  "About":"Bakery",
+		  "link":null, 
+		  "Tags":"baked goods, desserts"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.65254,45.992719]},
+		"properties":{
+		  "id":224,
+		  "name":"Misu Chinese Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"435 Brookside Dr. Fredericton",
+		  "About":"Chinese",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, chinese"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.639883,45.961462]},
+		"properties":{
+		  "id":225,
+		  "name":"Molly's Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"554 Queen St. Fredericton",
+		  "About":"Homestyle",
+		  "link":null, 
+		  "Tags":"dine-in, local, homestyle"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.657167,45.940737]},
+		"properties":{
+		  "id":226,
+		  "name":"MonkeyCakes",
+		  "Category":"Restaurant",
+		  "Location":"1111 Regent St. Fredericton",
+		  "About":"Bakery",
+		  "link":"http://monkeycakes.ca/", 
+		  "Tags":"baked goods, desserts"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.662483,45.931417]},
+		"properties":{
+		  "id":227,
+		  "name":"Montana's Cookhouse",
+		  "Category":"Restaurant",
+		  "Location":"6 Trinity Dr. Fredericton",
+		  "About":"Steakhouse",
+		  "link":"http://www.montanas.ca/", 
+		  "Tags":"dine-in, take-out, steakhouse"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.640228,45.961602]},
+		"properties":{
+		  "id":228,
+		  "name":"Naru Japanese Cuisine",
+		  "Category":"Restaurant",
+		  "Location":"536 Queen St. Fredericton",
+		  "About":"Japanese",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, japanese"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.629769,45.967706]},
+		"properties":{
+		  "id":229,
+		  "name":"New England Pizza",
+		  "Category":"Restaurant",
+		  "Location":"612 Union St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.newenglandpizza.ca/", 
+		  "Tags":"dine-in, take-out, pizza"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":230,
+		  "name":"NewYork Fries",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Fast food",
+		  "link":null, 
+		  "Tags":"take-out, fast-food"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.629284,45.930208]},
+		"properties":{
+		  "id":231,
+		  "name":"Oriental Pearl Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"440 Kimble Dr. Fredericton",
+		  "About":"Chinese",
+		  "link":null, 
+		  "Tags":"dine-in, take-out, chinese, canadian"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.641907,45.962362]},
+		"properties":{
+		  "id":232,
+		  "name":"The Palate",
+		  "Category":"Restaurant",
+		  "Location":"462 Queen St. Fredericton",
+		  "About":"Fine Dining",
+		  "link":"http://www.thepalate.com/", 
+		  "Tags":"dine-in, local, fine dining"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66319,45.931751]},
+		"properties":{
+		  "id":233,
+		  "name":"Panago Pizza",
+		  "Category":"Restaurant",
+		  "Location":"10 Trinity Dr. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.panago.com/", 
+		  "Tags":"take-out, fast-food, pizza"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.57988,45.90586]},
+		"properties":{
+		  "id":234,
+		  "name":"Papa Georgio's & Old Salty's Fish & Chips",
+		  "Category":"Restaurant",
+		  "Location":"1853 Lincoln Rd. Fredericton",
+		  "About":"Pizza",
+		  "link":null, 
+		  "Tags":"take-out, seafood, pizza"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.648258,45.976844]},
+		"properties":{
+		  "id":235,
+		  "name":"Papa John's Pizza",
+		  "Category":"Restaurant",
+		  "Location":"269 Main St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.papajohns.com/canada/", 
+		  "Tags":"take-out, fast-food, pizza"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.656882,45.956677]},
+		"properties":{
+		  "id":236,
+		  "name":"Papa John's Pizza",
+		  "Category":"Restaurant",
+		  "Location":"528 Smythe St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.papajohns.com/canada/", 
+		  "Tags":"take-out, fast-food, pizza"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.638642,45.96098]},
+		"properties":{
+		  "id":237,
+		  "name":"Park's Noodle and Sushi",
+		  "Category":"Restaurant",
+		  "Location":"602 Queen St. Fredericton",
+		  "About":"Japanese",
+		  "link":null, 
+		  "Tags":"take-out, japanese, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.613062,45.939901]},
+		"properties":{
+		  "id":238,
+		  "name":"Pier 23",
+		  "Category":"Restaurant",
+		  "Location":"480 Riverside Dr. Fredericton",
+		  "About":"Pub",
+		  "link":"http://www.ramadafredericton.com/restaurant.asp", 
+		  "Tags":"take-out, pub, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643929,45.962494]},
+		"properties":{
+		  "id":239,
+		  "name":"Pita Fresco",
+		  "Category":"Restaurant",
+		  "Location":"83 York St. Fredericton",
+		  "About":"Sandwiches",
+		  "link":null, 
+		  "Tags":"take-out, sandwiches, dine-in, healthy options"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.648253,45.994356]},
+		"properties":{
+		  "id":240,
+		  "name":"Pita Pit",
+		  "Category":"Restaurant",
+		  "Location":"531 Brookside Dr. Fredericton",
+		  "About":"Sandwiches",
+		  "link":"http://pitapit.ca/", 
+		  "Tags":"take-out, sandwiches, dine-in, healthy options"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.669243,45.941943]},
+		"properties":{
+		  "id":241,
+		  "name":"Pita Pit",
+		  "Category":"Restaurant",
+		  "Location":"1012 Prospect St. Fredericton",
+		  "About":"Sandwiches",
+		  "link":"http://pitapit.ca/", 
+		  "Tags":"take-out, sandwiches, dine-in, healthy options"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.670053,45.943105]},
+		"properties":{
+		  "id":242,
+		  "name":"Pizza Delight",
+		  "Category":"Restaurant",
+		  "Location":"989 Prospect St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.pizzadelight.com/14-restaurants-fredericton-prospect-.html", 
+		  "Tags":"take-out, pizza, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.634145,45.97614]},
+		"properties":{
+		  "id":243,
+		  "name":"Pizza Delight",
+		  "Category":"Restaurant",
+		  "Location":"243 St. Mary's St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://www.pizzadelight.com/en/find-a-restaurant/pizzeria/15-fredericton-st-mary-s-.html", 
+		  "Tags":"take-out, pizza, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.650259,45.976454]},
+		"properties":{
+		  "id":244,
+		  "name":"Pizza Hut",
+		  "Category":"Restaurant",
+		  "Location":"230 Main St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://corporate.pizzahut.ca/", 
+		  "Tags":"take-out, pizza, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.668801,45.942999]},
+		"properties":{
+		  "id":245,
+		  "name":"Pizza Hut",
+		  "name":"Pizza Delight",
+		  "Category":"Restaurant",
+		  "Location":"1180 Smythe St. Fredericton",
+		  "About":"Pizza",
+		  "link":"http://corporate.pizzahut.ca/", 
+		  "Tags":"take-out, pizza, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.592883,45.978544]},
+		"properties":{
+		  "id":246,
+		  "name":"Pizza Twice",
+		  "Category":"Restaurant",
+		  "Location":"247 Canada St. Fredericton",
+		  "About":"Pizza",
+		  "link":null, 
+		  "Tags":"take-out, pizza, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.657167,45.940737]},
+		"properties":{
+		  "id":247,
+		  "name":"Pizza Twice",
+		  "Category":"Restaurant",
+		  "Location":"1111 Regent St. Fredericton",
+		  "About":"Pizza",
+		  "link":"https://www.facebook.com/pages/Pizza-Twice-Regent-Street/133744203374092", 
+		  "Tags":"take-out, pizza, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":248,
+		  "name":"PretzelMaker and Mrs. Fields Cookies",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Desserts",
+		  "link":null, 
+		  "Tags":"take-out, desserts, fast-food, baked goods"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.655286,45.957344]},
+		"properties":{
+		  "id":249,
+		  "name":"Quizno's Subs",
+		  "Category":"Restaurant",
+		  "Location":"169 Dundonald St. Fredericton",
+		  "About":"Sandwiches",
+		  "link":"http://www.quiznos.ca/Home.aspx", 
+		  "Tags":"take-out, sandwiches, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643172,45.961862]},
+		"properties":{
+		  "id":250,
+		  "name":"Read's",
+		  "Category":"Restaurant",
+		  "Location":"435 King St. Fredericton",
+		  "About":"Cafe",
+		  "link":"http://www.shopreads.com/", 
+		  "Tags":"take-out, pre-made meals, baked goods"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.652202,45.977581]},
+		"properties":{
+		  "id":251,
+		  "name":"Red Lantern Pub",
+		  "Category":"Restaurant",
+		  "Location":"182 Main St. Fredericton",
+		  "About":"Pub",
+		  "link":null, 
+		  "Tags":"take-out, pub, dine-in"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.661113,45.935796]},
+		"properties":{
+		  "id":252,
+		  "name":"Regency Room",
+		  "Category":"Restaurant",
+		  "Location":"1315 Regent St. Fredericton",
+		  "About":"Pub",
+		  "link":null, 
+		  "Tags":"take-out, pub, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.645413,45.962252]},
+		"properties":{
+		  "id":253,
+		  "name":"Relish Gourmet Hamburgers",
+		  "Category":"Restaurant",
+		  "Location":"348 King St. Fredericton",
+		  "About":"Burgers",
+		  "link":null, 
+		  "Tags":"take-out, burgers, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66319,45.931751]},
+		"properties":{
+		  "id":254,
+		  "name":"Relish Gourmet Hamburgers",
+		  "Category":"Restaurant",
+		  "Location":"10 Trinity Ave Fredericton",
+		  "About":"Burgers",
+		  "link":null, 
+		  "Tags":"take-out, burgers, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.669696,45.943078]},
+		"properties":{
+		  "id":255,
+		  "name":"Ringo's Steakhouse",
+		  "Category":"Restaurant",
+		  "Location":"1187 Smythe St. Fredericton",
+		  "About":"Steakhouse",
+		  "link":"https://www.facebook.com/pages/Ringos-Grill/104401369609912", 
+		  "Tags":"take-out, steakhouse, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.669243,45.941943]},
+		"properties":{
+		  "id":256,
+		  "name":"Saigon Noodle House",
+		  "Category":"Restaurant",
+		  "Location":"1012 Prospect St. Fredericton",
+		  "About":"Vietnamese",
+		  "link":null, 
+		  "Tags":"take-out, vietnamese, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.711536,45.929875]},
+		"properties":{
+		  "id":257,
+		  "name":"Sam Snead's Oak Grill and Tavern",
+		  "Category":"Restaurant",
+		  "Location":"1700 Hanwell Dr. Fredericton",
+		  "About":"Pub",
+		  "link":"http://www.kingswoodpark.ca/samsneads", 
+		  "Tags":"take-out, pub, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643165,45.961526]},
+		"properties":{
+		  "id":258,
+		  "name":"Second Cup",
+		  "Category":"Restaurant",
+		  "Location":"440 King St. Fredericton",
+		  "About":"Cafe",
+		  "link":"http://www.secondcup.com/", 
+		  "Tags":"baked goods, cafe, prepared-meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.670816,45.943173]},
+		"properties":{
+		  "id":259,
+		  "name":"Second Cup",
+		  "Category":"Restaurant",
+		  "Location":"973 Prospect St. Fredericton",
+		  "About":"Cafe",
+		  "link":"http://www.secondcup.com/", 
+		  "Tags":"baked goods, cafe, prepared-meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643165,45.961526]},
+		"properties":{
+		  "id":260,
+		  "name":"Shan Chinese Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"440 King St. Fredericton",
+		  "About":"Chinese",
+		  "link":null, 
+		  "Tags":"take-out, fast-food, chinese"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643993,45.96226]},
+		"properties":{
+		  "id":261,
+		  "name":"Smoke's Poutinerie",
+		  "Category":"Restaurant",
+		  "Location":"99 York St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://www.shankitchen.com/#!/splash", 
+		  "Tags":"fast-food, take-out, poutine"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.638777,45.96071]},
+		"properties":{
+		  "id":262,
+		  "name":"Snooty Fox",
+		  "Category":"Restaurant",
+		  "Location":"66 Regent St. Fredericton",
+		  "About":"Pub",
+		  "link":"http://www.thesnooty.ca/", 
+		  "Tags":"dine-in, take-out, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.664663,45.929977]},
+		"properties":{
+		  "id":263,
+		  "name":"St. Hubert's Express",
+		  "Category":"Restaurant",
+		  "Location":"22 Trinity Dr. Fredericton",
+		  "About":"homestyle",
+		  "link":"http://www.st-hubert.com/index.en.html", 
+		  "Tags":"homestyle, take-out, dine-in, chicken"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.631148,45.97183]},
+		"properties":{
+		  "id":264,
+		  "name":"St. Mary's First Nations Fish 'n' Chips",
+		  "Category":"Restaurant",
+		  "Location":"150 Cliffe St. Fredericton",
+		  "About":"Fast-food",
+		  "link":null, 
+		  "Tags":"fast-food, take-out, dine-in, seafood"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.662219,45.938923]},
+		"properties":{
+		  "id":265,
+		  "name":"Starbucks",
+		  "Category":"Restaurant",
+		  "Location":"1180 Prospect St. Fredericton",
+		  "About":"Cafe",
+		  "link":"http://www.starbucks.ca/", 
+		  "Tags":"cafe, take-out, dine-in, baked goods, prepared-meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":266,
+		  "name":"Starbucks",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Cafe",
+		  "link":"http://www.starbucks.ca/", 
+		  "Tags":"cafe, take-out, dine-in, baked goods, prepared-meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.651844,45.98883]},
+		"properties":{
+		  "id":267,
+		  "name":"Subway",
+		  "Category":"Restaurant",
+		  "Location":"1050 Douglas Ave. Fredericton",
+		  "About":"Sandwiches",
+		  "link":"http://www.subway.ca/", 
+		  "Tags":"fast-food, take-out, dine-in, sandwiches"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.644837,45.962871]},
+		"properties":{
+		  "id":268,
+		  "name":"Subway",
+		  "Category":"Restaurant",
+		  "Location":"349 King St. Fredericton",
+		  "About":"Sandwiches",
+		  "link":"http://www.subway.ca/", 
+		  "Tags":"fast-food, take-out, dine-in, sandwiches"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.648662,45.976353]},
+		"properties":{
+		  "id":269,
+		  "name":"Subway",
+		  "Category":"Restaurant",
+		  "Location":"265 Main St. Fredericton",
+		  "About":"Sandwiches",
+		  "link":"http://www.subway.ca/", 
+		  "Tags":"fast-food, take-out, dine-in, sandwiches"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66685,45.941906]},
+		"properties":{
+		  "id":270,
+		  "name":"Subway",
+		  "Category":"Restaurant",
+		  "Location":"1055 Prospect St. Fredericton",
+		  "About":"Sandwiches",
+		  "link":"http://www.subway.ca/", 
+		  "Tags":"fast-food, take-out, dine-in, sandwiches"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":271,
+		  "name":"Subway",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Sandwiches",
+		  "link":"http://www.subway.ca/", 
+		  "Tags":"fast-food, take-out, dine-in, sandwiches"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.657167,45.940737]},
+		"properties":{
+		  "id":272,
+		  "name":"Subway",
+		  "Category":"Restaurant",
+		  "Location":"1111 Regent St. Fredericton",
+		  "About":"Sandwiches",
+		  "link":"http://www.subway.ca/", 
+		  "Tags":"fast-food, take-out, dine-in, sandwiches"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.662713,45.98324]},
+		"properties":{
+		  "id":273,
+		  "name":"Sun Prince Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"41 Main St. Fredericton",
+		  "About":"Chinese",
+		  "link":null, 
+		  "Tags":"chinese, take-out, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.662331,45.963739]},
+		"properties":{
+		  "id":274,
+		  "name":"Sunshine Diner",
+		  "Category":"Restaurant",
+		  "Location":"7 Brookmount St. Fredericton",
+		  "About":"Homestyle",
+		  "link":"http://www.sunshinediner.ca/", 
+		  "Tags":"homestyle, take-out, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.639097,45.955966]},
+		"properties":{
+		  "id":275,
+		  "name":"Sweet Belgian Desire",
+		  "Category":"Restaurant",
+		  "Location":"732 Charlotte St. Fredericton",
+		  "About":"Breakfast",
+		  "link":"http://www.sweetbelgiandesire.com/", 
+		  "Tags":"breakfast, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.671615,45.943515]},
+		"properties":{
+		  "id":276,
+		  "name":"Swiss Chalet",
+		  "Category":"Restaurant",
+		  "Location":"961 Prospect St. Fredericton",
+		  "About":"Homestyle",
+		  "link":"https://www.swisschalet.com/", 
+		  "Tags":"homestyle, take-out, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":277,
+		  "name":"Taco Bell",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://www.tacobell.ca/", 
+		  "Tags":"fast-food, take-out, dine-in, tex-mex"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.639434,45.96052]},
+		"properties":{
+		  "id":278,
+		  "name":"Ten Resto",
+		  "Category":"Restaurant",
+		  "Location":"87 Regent St. Fredericton",
+		  "About":"Fine Dining",
+		  "link":"https://www.facebook.com/TenResto", 
+		  "Tags":"fine-dining, take-out, dine-in"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":279,
+		  "name":"Teriyaki",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Fast-food",
+		  "link":null, 
+		  "Tags":"fast-food, take-out, dine-in, japanese"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.636734,45.960719]},
+		"properties":{
+		  "id":280,
+		  "name":"Terrace Dining Room",
+		  "Category":"Restaurant",
+		  "Location":"659 Queen St. Fredericton",
+		  "About":"Fine Dining",
+		  "link":"http://www.cpfredericton.com/en/restaurants-dining/the-terrace-room", 
+		  "Tags":"fine-dining, dine-in"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":281,
+		  "name":"Thai Express",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Fast-food",
+		  "link":null, 
+		  "Tags":"fast-food, take-out, dine-in, thai"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66319,45.931751]},
+		"properties":{
+		  "id":282,
+		  "name":"Thai Mano",
+		  "Category":"Restaurant",
+		  "Location":"10 Trinity Ave. Fredericton",
+		  "About":"Thai",
+		  "link":"http://thaimanao.com/", 
+		  "Tags":"thai, dine-in, take-out"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.647745,45.976003]},
+		"properties":{
+		  "id":283,
+		  "name":"Thai Spice",
+		  "Category":"Restaurant",
+		  "Location":"277 Main St. Fredericton",
+		  "About":"Thai",
+		  "link":"http://thaimanao.com/", 
+		  "Tags":"thai, dine-in, take-out"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.668281,45.941674]},
+		"properties":{
+		  "id":284,
+		  "name":"The Hilltop Grill",
+		  "Category":"Restaurant",
+		  "Location":"1034 Prospect St. Fredericton",
+		  "About":"Pub",
+		  "link":"http://www.thehilltop.ca/", 
+		  "Tags":"pub, dine-in, take-out"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.592813,45.978224]},
+		"properties":{
+		  "id":285,
+		  "name":"Tim Hortons",
+		  "Category":"Restaurant",
+		  "Location":"245 Canada St. Fredericton",
+		  "About":"cafe",
+		  "link":"http://www.timhortons.com/", 
+		  "Tags":"cafe, dine-in, take-out, baked goods, prepared-meals"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.651844,45.98883]},
+		"properties":{
+		  "id":286,
+		  "name":"Tim Hortons",
+		  "Category":"Restaurant",
+		  "Location":"1050 Douglas Ave. Fredericton",
+		  "About":"cafe",
+		  "link":"http://www.timhortons.com/", 
+		  "Tags":"cafe, dine-in, take-out, baked goods, prepared-meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.693215,45.946991]},
+		"properties":{
+		  "id":287,
+		  "name":"Tim Hortons",
+		  "Category":"Restaurant",
+		  "Location":"1160 Hanwell Rd. Fredericton",
+		  "About":"cafe",
+		  "link":"http://www.timhortons.com/", 
+		  "Tags":"cafe, dine-in, take-out, baked goods, prepared-meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.639241,45.959916]},
+		"properties":{
+		  "id":288,
+		  "name":"Tim Hortons",
+		  "Category":"Restaurant",
+		  "Location":"612 King St. Fredericton",
+		  "About":"cafe",
+		  "link":"http://www.timhortons.com/", 
+		 "Tags":"cafe, dine-in, take-out, baked goods, prepared-meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.646989,45.97531]},
+		"properties":{
+		  "id":289,
+		  "name":"Tim Hortons",
+		  "Category":"Restaurant",
+		  "Location":"290 Main St. Fredericton",
+		  "About":"cafe",
+		  "link":"http://www.timhortons.com/", 
+		  "Tags":"cafe, dine-in, take-out, baked goods, prepared-meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.661038,45.939567]},
+		"properties":{
+		  "id":290,
+		  "name":"Tim Hortons",
+		  "Category":"Restaurant",
+		  "Location":"1189 Prospect St. Fredericton",
+		  "About":"cafe",
+		  "link":"http://www.timhortons.com/", 
+		  "Tags":"cafe, dine-in, take-out, baked goods, prepared-meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.655246,45.960086]},
+		"properties":{
+		  "id":291,
+		  "name":"Tim Hortons",
+		  "Category":"Restaurant",
+		  "Location":"375 Smythe St. Fredericton",
+		  "About":"cafe",
+		  "link":"http://www.timhortons.com/", 
+		  "Tags":"cafe, dine-in, take-out, baked goods, prepared-meals"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.632756,45.969416]},
+		"properties":{
+		  "id":292,
+		  "name":"Tim Hortons",
+		  "Category":"Restaurant",
+		  "Location":"534 Union St. Fredericton",
+		  "About":"cafe",
+		  "link":"http://www.timhortons.com/", 
+		  "Tags":"cafe, dine-in, take-out, baked goods, prepared-meals"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.715517,45.966985]},
+		"properties":{
+		  "id":293,
+		  "name":"Tim Hortons",
+		  "Category":"Restaurant",
+		  "Location":"1713 Woodstock Rd. Fredericton",
+		  "About":"cafe",
+		  "link":"http://www.timhortons.com/", 
+		  "Tags":"cafe, dine-in, take-out, baked goods, prepared-meals"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":294,
+		  "name":"Timothy's Coffee",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"cafe",
+		  "link":"http://www.timothys.ca/", 
+			"Tags":"cafe, take-out, baked goods"}},
+		
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.66458,45.935334]},
+		"properties":{
+		  "id":295,
+		  "name":"Vanelli's",
+		  "Category":"Restaurant",
+		  "Location":"1381 Regent St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"http://www.timothys.ca/", 
+		  "Tags":"italian, take-out, fast-food"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.643241,45.9743]},
+		"properties":{
+		  "id":296,
+		  "name":"Wendy's",
+		  "Category":"Restaurant",
+		  "Location":"370 Main St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"https://www.wendys.com/", 
+		  "Tags":"dine-in, take-out, fast-food"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.671012,45.94343]},
+		"properties":{
+		  "id":297,
+		  "name":"Wendy's",
+		  "Category":"Restaurant",
+		  "Location":"967 Prospect St. Fredericton",
+		  "About":"Fast-food",
+		  "link":"https://www.wendys.com/", 
+		"Tags":"dine-in, take-out, fast-food"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.655852,45.959373]},
+		"properties":{
+		  "id":298,
+		  "name":"William's Seafood",
+		  "Category":"Restaurant",
+		  "Location":"397 Smythe St. Fredericton",
+		  "About":"Seafood",
+		  "link":null, 
+		"Tags":"dine-in, take-out, seafood"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.655246,45.960086]},
+		"properties":{
+		  "id":299,
+		  "name":"Winners Restaurant and Lounge",
+		  "Category":"Restaurant",
+		  "Location":"375 Smythe St. Fredericton",
+		  "About":"Pub",
+		  "link":null, 
+		"Tags":"dine-in, take-out, pub"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.632525,45.969855]},
+		"properties":{
+		  "id":300,
+		  "name":"Wolostoq Wharf",
+		  "Category":"Restaurant",
+		  "Location":"527 Union St. Fredericton",
+		  "About":"Seafood",
+		  "link":null, 
+		"Tags":"dine-in, take-out, seafood, fine-dining"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.657167,45.940737]},
+		"properties":{
+		  "id":301,
+		  "name":"Yassou Souvlaki & Donair",
+		  "Category":"Restaurant",
+		  "Location":"1111 Regent St. Fredericton",
+		  "About":"Sandwiches",
+		  "link":null, 
+		"Tags":"dine-in, take-out, sandwiches"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.559695,45.850849]},
+		"properties":{
+		  "id":302,
+		  "name":"Blue Canoe Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"415 Nevers Rd. Waasis",
+		  "About":"Homestyle",
+		  "link":null, 
+		"Tags":"dine-in, take-out, homestyle"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.307326,45.891742]},
+		"properties":{
+		  "id":303,
+		  "name":"Casey's Campground",
+		  "Category":"Restaurant",
+		  "Location":"2511 NB-105, Sheffield",
+		  "About":"Homestyle",
+		  "link":null, 
+		"Tags":"dine-in, take-out, homestyle"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.970856,45.876782]},
+		"properties":{
+		  "id":304,
+		  "name":"King's Head Inn",
+		  "Category":"Restaurant",
+		  "Location":"5804 NB-102, Prince William",
+		  "About":"Historic",
+		  "link":"http://kingslanding.nb.ca/en/the-kings-head-inn/", 
+		"Tags":"dine-in, take-out, homestyle, historic"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.866927,45.94473]},
+		"properties":{
+		  "id":305,
+		  "name":"Parkview Restaurant",
+		  "Category":"Restaurant",
+		  "Location":"35 Mactaquac Rd. French Village",
+		  "About":"Homestyle",
+		  "link":"http://www.riversidefredericton.com/restaurants-fredericton-nb.aspx", 
+		"Tags":"dine-in, take-out, homestyle"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.690017,45.883133]},
+		"properties":{
+		  "id":306,
+		  "name":"Wetmore Street Pub & Duelers Pizza",
+		  "Category":"Restaurant",
+		  "Location":"530 New Maryland, New Maryland",
+		  "About":"Pub",
+		  "link":null, 
+		"Tags":"dine-in, take-out, pub, pizza"}}
+]}		

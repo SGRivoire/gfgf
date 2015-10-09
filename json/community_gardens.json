@@ -1,0 +1,97 @@
+{ 
+    "type": "FeatureCollection",
+	"properties":
+		{
+		  "name":"Community Garden",
+		  "description": "This feature collection contains all community gardens in Fredericton"
+		},
+  
+	 "features": 
+	 [
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.618077,45.95239]},
+			"properties":{
+			  "id":58,
+			  "name":"Barkers Point School Community Garden",
+			  "Category":"Community Garden",
+			  "Location":"39 Carmen Ave. Fredericton",
+			  "About":"Community Garden",
+			  "link":"http://bps.nbed.nb.ca/", 
+			  "Tags":"community garden, family activity, low cost, grow your own"}},
+			
+			{"type":"Feature",
+			"geometry":{"type":"Point","coordinates":[-66.62935,45.971091]},
+			"properties":{
+			  "id":59,
+			  "name":"Doone-Wilson Children's Community Garden",
+			  "Category":"Community Garden",
+			  "Location":"578 Doone St. Fredericton",
+			  "About":"Community Garden",
+			  "link":null, 
+			  "Tags":"community garden, family activity, low cost, grow your own"}},
+			  
+			{"type":"Feature",
+			"geometry":{"type":"Point","coordinates":[-66.652998,45.941706]},
+			"properties":{
+			  "id":60,
+			  "name":"Ecole Ste. Anne School Community Garden",
+			  "Category":"Community Garden",
+			  "Location":"715 Priestman St. Fredericton",
+			  "About":"Community Garden",
+			  "link":null, 
+			  "Tags":"community garden, family activity, low cost, grow your own"}},
+			  
+			{"type":"Feature",
+			"geometry":{"type":"Point","coordinates":[-66.620563,45.926289]},
+			"properties":{
+			  "id":61,
+			  "name":"Fredericton Organic Community Garden",
+			  "Category":"Community Garden",
+			  "Location":"150 Kimble Dr. Fredericton",
+			  "About":"Community Garden",
+			  "link":"http://www.frederictonorganicgarden.ca/", 
+			  "Tags":"community garden, family activity, low cost, grow your own"}},
+			  
+			{"type":"Feature",
+			"geometry":{"type":"Point","coordinates":[-66.608247,45.935836]},
+			"properties":{
+			  "id":62,
+			  "name":"Greener Village Community Food Centre",
+			  "Category":"Community Garden",
+			  "Location":"686 Riverside Dr. Fredericton",
+			  "About":"Community Garden",
+			  "link":"http://frederictonfoodbank.com/community-gardens", 
+			  "Tags":"community garden, family activity, low cost, grow your own"}},
+			  
+			{"type":"Feature",
+			"geometry":{"type":"Point","coordinates":[-66.589342,45.977881]},
+			"properties":{
+			  "id":63,
+			  "name":"Marysville Community Garden (NBCHG)",
+			  "Category":"Community Garden",
+			  "Location":"20 McGloin St. Fredericton",
+			  "About":"Community Garden",
+			  "link":"http://nbchg.org/?page_id=1568", 
+			  "Tags":"community garden, u-pick, family activity, low cost, grow your own"}},
+			  
+			{"type":"Feature",
+			"geometry":{"type":"Point","coordinates":[-66.661509,45.985264]},
+			"properties":{
+			  "id":64,
+			  "name":"Neville-Hawkins Children's Community Garden",
+			  "Category":"Community Garden",
+			  "Location":"30 Hawkins St. Fredericton",
+			  "About":"Community Garden",
+			  "link":"http://frederictonfoodbank.com/community-gardens", 
+			  "Tags":"community garden, family activity, low cost, grow your own"}},
+			  
+			{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.617564,45.967344]},
+			"properties":{
+			  "id":65,
+			  "name":"St. Mary's Community Garden (NBCHG)",
+			  "Category":"Community Garden",
+			  "Location":"780 MacEvoy St. Fredericton",
+			  "About":"Community Garden",
+			  "link":"http://stmaryscommunitygarden.blogspot.ca/", 
+			  "Tags":"community garden, u-pick, family activity, low cost, grow your own"}}
+]}

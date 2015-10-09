@@ -1,0 +1,64 @@
+{ 
+    "type": "FeatureCollection",
+	"properties":
+		{
+		  "name":"Drug Stores",
+		  "description": "This feature collection contains all Drug Stores supplying Fredericton and the surrounding areas."
+		},
+  
+	 "features": 
+	 [
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.65254,45.992719]},
+		"properties":{
+		  "id":124,
+		  "name":"Lawton's Drugs",
+		  "Category":"Drug Store",
+		  "Location":"5-435 Brookside Dr. Fredericton",
+		  "About":"Drug Store",
+		  "More info":null, 
+		  "Tags":"processed, packaged, imported, essentials"}},
+		  
+		 {"type":"Feature",
+		 "geometry":{"type":"Point","coordinates":[-66.643165,45.961526]},
+		"properties":{
+		  "id":126,
+		  "name":"Shopper's Drug Mart (King's Place)",
+		  "Category":"Drug Store",
+		  "Location":"440 King St. Fredericton",
+		  "About":"Drug Store",
+		  "More info":"http://www1.shoppersdrugmart.ca/en/store-locator/store/169", 
+		  "Tags":"processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.648258,45.976844]},
+		"properties":{
+		  "id":127,
+		  "name":"Shopper's Drug Mart (Main St.)",
+		  "Category":"Drug Store",
+		  "Location":"269 Main St. Fredericton",
+		  "About":"Drug Store",
+		  "More info":"http://www1.shoppersdrugmart.ca/en/store-locator/store/173", 
+		  "Tags":"processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.655489,45.94254]},
+		"properties":{
+		  "id":128,
+		  "name":"Shopper's Drug Mart (Regent St.)",
+		  "Category":"Drug Store",
+		  "Location":"1015 Regent St. Fredericton",
+		  "About":"Drug Store",
+		  "More info":"http://www1.shoppersdrugmart.ca/en/store-locator/store/176", 
+		  "Tags":"processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.667526,45.941354]},
+		"properties":{
+		  "id":129,
+		  "name":"Shopper's Drug Mart (Prospect St.)",
+		  "Category":"Drug Store",
+		  "Location":"1040 Prospect St. Fredericton",
+		  "About":"Drug Store",
+		  "More info":"http://www1.shoppersdrugmart.ca/en/store-locator/store/172", 
+		  "Tags":"processed, packaged, imported, essentials"}}
+]}

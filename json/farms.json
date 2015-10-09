@@ -1,0 +1,318 @@
+{ 
+    "type": "FeatureCollection",
+	"properties":
+		{
+		  "name":"Farms",
+		  "description": "This feature collection contains farms supplying Fredericton and the surrounding areas."
+		},
+  
+	 "features": 
+	 [
+	 
+		 {"type":"Feature",
+		 "geometry":{"type":"Point","coordinates":[-66.81846,45.961858]},
+		"properties":{
+		  "id":30,
+		  "name":"Everett Family Orchard U-Pick",
+		  "Category":"Farm",
+		  "Location":"32 Everett Ln. NB-102 Island View",
+		  "About":"U-Pick, Fruit",
+		  "link":"http://everettapples.com/", 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.872937,45.985342]},
+		"properties":{
+		  "id":31,
+		  "name":"River View Orchards (Carlisle Rd. U-Pick)",
+		  "Category":"Farm",
+		  "Location":"251 NB-616 Keswick",
+		  "About":"U-Pick, Fruit",
+		  "link":"https://www.facebook.com/pages/River-View-Orchard/113527452021359?fref=ts", 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.367584,45.87562]},
+		"properties":{
+		  "id":32,
+		  "name":"Gilbert Farms",
+		  "Category":"Farm",
+		  "Location":"419 NB-102 Burton",
+		  "About":"U-Pick, Fruit",
+		  "link":null, 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.518569,45.885311]},
+		"properties":{
+		  "id":33,
+		  "name":"McKinney's U-Pick",
+		  "Category":"Farm",
+		  "Location":"761 NB-105 Maugerville",
+		  "About":"U-Pick, Fruit",
+		  "link":null, 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.901241,46.021926]},
+		"properties":{
+		  "id":34,
+		  "name":"Sandow Farm",
+		  "Category":"Farm",
+		  "Location":"684 Tripp Settlement Rd. Keswick Ridge",
+		  "About":"U-Pick, Fruit",
+		  "link":"http://sandowfarm.ca/", 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, organic, family activity"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.687434,45.979384]},
+		"properties":{
+		  "id":35,
+		  "name":"Sunset U-Pick (Walker U-Pick)",
+		  "Category":"Farm",
+		  "Location":"49 Ferris St. Fredericton",
+		  "About":"U-Pick, Fruit",
+		  "link":"http://sunsetupick.com/home.html", 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},		  
+	  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.52261,45.886774]},
+		"properties":{
+		  "id":36,
+		  "name":"Tingley's U-Pick",
+		  "Category":"Farm",
+		  "Location":"727 NB-105 Maugerville",
+		  "About":"U-Pick, Fruit",
+		  "link":null,
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.714446,45.965268]},
+		"properties":{
+		  "id":37,
+		  "name":"Fernhill Farms",
+		  "Category":"Farm",
+		  "Location":"1670 Woodstock Rd. Fredericton",
+		  "About":"U-Pick, Fruit",
+		  "link":null, 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.834976,45.993746]},
+		"properties":{
+		  "id":38,
+		  "name":"Jordan Orchards",
+		  "Category":"Farm",
+		  "Location":"2839 NB-105 Mouth of Keswick",
+		  "About":"U-Pick, Fruit",
+		  "link":null, 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.150893,45.771903]},
+		"properties":{
+		  "id":39,
+		  "name":"Charlotte's Family Orchard",
+		  "Category":"Farm",
+		  "Location":"2287 NB-102 Hwy Gagetown",
+		  "About":"U-Pick, Fruit",
+		  "link":null, 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.752849,45.985649]},
+		"properties":{
+		  "id":40,
+		  "name":"Doucette's U-Pick",
+		  "Category":"Farm",
+		  "Location":"118 Carlisle Rd. Douglas",
+		  "About":"U-Pick, Fruit",
+		  "link":"http://doucettes.webs.com/", 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.840086,45.96597]},
+		"properties":{
+		  "id":41,
+		  "name":"Johnny Appleseed Orchard",
+		  "Category":"Farm",
+		  "Location":"Crocks Pt. Rd. Keswick Ridge",
+		  "About":"U-Pick, Fruit",
+		  "link":null, 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.816898,45.993903]},
+		"properties":{
+		  "id":42,
+		  "name":"Happy Apple Acres",
+		  "Category":"Farm",
+		  "Location":"1092 NB-105 Douglas",
+		  "About":"U-Pick, Fruit",
+		  "link":"http://happyappleacres.com/", 
+		  "Tags":"fresh, local, u-pick, farm gate sales, seasonal, family activity"}},
+
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.860756,45.976062]},
+		"properties":{
+		  "id":43,
+		  "name":"Coburn Farms",
+		  "Category":"Farm",
+		  "Location":"107 NB-616 Hwy Keswick Ridge",
+		  "About":"Eggs, Fruit",
+		  "link":"https://www.facebook.com/pages/Coburn-Farms/107970905966087", 
+		  "Tags":"fresh, local, u-pick, seasonal, value-added products"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.096108,45.785355]},
+		"properties":{
+		  "id":44,
+		  "name":"Jemseg River Farms",
+		  "Category":"Farm",
+		  "Location":"215 NB-715 Jemseg",
+		  "About":"Vegetables",
+		  "link":null, 
+		  "Tags":"fresh, local, seasonal"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.499618,45.881002]},
+		"properties":{
+		  "id":45,
+		  "name":"Moxon's Country Pumpkin",
+		  "Category":"Farm",
+		  "Location":"911 NB-105 Maugerville",
+		  "About":"Vegetables",
+		  "link":"https://www.facebook.com/pages/Moxons-Country-Pumpkin/404378682958393?fref=ts", 
+		  "Tags":"fresh, local, seasonal"}},
+	  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.526181,45.888498]},
+		"properties":{
+		  "id":46,
+		  "name":"Harvey's Big Potato",
+		  "Category":"Farm",
+		  "Location":"701 NB-105 Maugerville",
+		  "About":"Vegetables",
+		  "link":null, 
+		  "Tags":"fresh, local, seasonal"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.147729,45.785503]},
+		"properties":{
+		  "id":47,
+		  "name":"Gagetown Fruit Farm",
+		  "Category":"Farm",
+		  "Location":"30 Courthouse Rd. Gagetown",
+		  "About":"Vegetables, Fruit, Meat",
+		  "link":null, 
+		  "Tags":"fresh, local, seasonal, value-added products"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-67.036017,45.664123]},
+		"properties":{
+		  "id":48,
+		  "name":"Shepherd's Garden",
+		  "Category":"Farm",
+		  "Location":"Frog Lake Rd. Harvey Station",
+		  "About":"Vegetables, Eggs, Meat",
+		  "link":null, 
+		  "Tags":"fresh, local"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.518569,45.885311]},
+		"properties":{
+		  "id":49,
+		  "name":"McKinney's U-Pick",
+		  "Category":"Farm",
+		  "Location":"761 NB-105 Maugerville",
+		  "About":"Fruit, Honey",
+		  "link":null, 
+		  "Tags":"fresh, local, seasonal"}},
+	  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.137229,45.740013]},
+		"properties":{
+		  "id":50,
+		  "name":"Appleman Farms (Gagetown Cider Company)",
+		  "Category":"Farm",
+		  "Location":"16 Fox Rd. Gagetown",
+		  "About":"Fruit",
+		  "link":"http://www.appleman.ca/", 
+		  "Tags":"fresh, local, value-added products"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.773541,45.967386]},
+		"properties":{
+		  "id":51,
+		  "name":"Silver Valley Farms",
+		  "Category":"Farm",
+		  "Location":"3385 Woodstock Rd Fredericton",
+		  "About":"Fruit, Vegetables",
+		  "link":null, 
+		  "Tags":"fresh, local, imported, seasonal"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.909455,46.015472]},
+		"properties":{
+		  "id":52,
+		  "name":"Good Spring Farm",
+		  "Category":"Farm",
+		  "Location":"730 Rte 616 Keswick Ridge",
+		  "About":"Fruit, Vegetables, Eggs",
+		  "link":null, 
+		  "Tags":"fresh, local, organic, seasonal"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.816428,45.993858]},
+		"properties":{
+		  "id":53,
+		  "name":"Currie's Greenhouses",
+		  "Category":"Farm",
+		  "Location":"1013 NB-105 Douglas",
+		  "About":"Vegetables",
+		  "link":null, 
+		  "Tags":"fresh, local, non-food products, seasonal"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-67.148837,45.964219]},
+		"properties":{
+		  "id":54,
+		  "name":"Dumfries Maple",
+		  "Category":"Farm",
+		  "Location":"7520 NB-102 Dumfries",
+		  "About":"Maple Syrup",
+		  "link":"http://dumfriesmaples.ca/", 
+		  "Tags":"fresh, local, value-added products"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-67.07469,45.939735]},
+		"properties":{
+		  "id":55,
+		  "name":"Goodine's Eggs",
+		  "Category":"Farm",
+		  "Location":"3166 NB-105 Bear Island",
+		  "About":"Eggs",
+		  "link":null, 
+		  "Tags":"fresh, local, Eggs"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.87213,45.937681]},
+		"properties":{
+		  "id":56,
+		  "name":"Piers Poultry",
+		  "Category":"Farm",
+		  "Location":"4270 NB-102 Lower Kingsclear",
+		  "About":"Eggs",
+		  "link":null, 
+		  "Tags":"fresh, local, Eggs"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.083857,45.737549]},
+		"properties":{
+		  "id":57,
+		  "name":"Rudolph's Farm, Butchershop & German Bakery",
+		  "Category":"Farm",
+		  "Location":"1259 NB-715 Lower Cambridge",
+		  "About":"Meat",
+		  "link":null, 
+		  "Tags":"fresh, local, value-added products"}}
+]}

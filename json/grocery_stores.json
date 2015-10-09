@@ -1,0 +1,308 @@
+{ 
+    "type": "FeatureCollection",
+	"properties":
+		{
+		  "name":"Grocery Stores",
+		  "description": "This feature collection contains all Grocery and Deparment stores that carry food items for the Fredericton and surrounding areas"
+		},
+  
+	 "features": 
+	 [
+		 {"type":"Feature",
+		 "geometry":{"type":"Point","coordinates":[-66.65842,45.978246]},
+		"properties":{
+		  "id":98,
+		  "name":"Atlantic Superstore (Main St.)",
+		  "Category":"Grocery",
+		  "Location":"116 Main St.Fredericton",
+		  "About":"Chain Supermarket",
+		  "More info":"http://www.atlanticsuperstore.ca/LCLOnline/home.jsp?_requestid=1845583", 
+		  "Tags":"fresh, local, imported, processed, packaged, pre-made meals,, value-added products, essentials, non-food items"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.656931,45.958098]},
+		"properties":{
+		  "id":99,
+		  "name":"Atlantic Superstore (Smythe St.)",
+		  "Category":"Grocery",
+		  "Location":"471 Smythe St. Fredericton",
+		  "About":"Chain Supermarket",
+		  "More info":"http://www.atlanticsuperstore.ca/LCLOnline/home.jsp?storeId=27", 
+		  "Tags":"fresh, local, imported, processed, packaged, pre-made meals,, value-added products, essentials, non-food items"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.617255,45.910301]},
+		"properties":{
+		  "id":100,
+		  "name":"Fredericton Direct Charge Co-op",
+		  "Category":"Grocery",
+		  "Location":"170 Doak Rd. Fredericton",
+		  "About":"Co-operative",
+		  "More info":"http://www.frederictoncoop.nb.ca/", 
+		  "Tags":"fresh, local, imported, processed, packaged, pre-made meals,, value-added products, essentials, non-food items"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.651662,45.992625]},
+		"properties":{
+		  "id":101,
+		  "name":"Sobeys (Brookside Mall)",
+		  "Category":"Grocery",
+		  "Location":"463 Brookside Dr. Fredericton",
+		  "About":"Chain Supermarket",
+		  "More info":"https://www.sobeys.com/en", 
+		  "Tags":"fresh, local, imported, processed, packaged, pre-made meals,, value-added products, essentials, non-food items"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.66446,45.939421]},
+		"properties":{
+		  "id":102,
+		  "name":"Sobeys (Prospect St.)",
+		  "Category":"Grocery",
+		  "Location":"1150 Prospect St. Fredericton",
+		  "About":"Chain Supermarket",
+		  "More info":"https://www.sobeys.com/en", 
+		  "Tags":"fresh, local, imported, processed, packaged, pre-made meals,, value-added products, essentials, non-food items"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.645199,45.954566]},
+		"properties":{
+		  "id":103,
+		  "name":"Sobeys (Regent St.)",
+		  "Category":"Grocery",
+		  "Location":"407 Regent St. Fredericton",
+		  "About":"Chain Supermarket",
+		  "More info":"https://www.sobeys.com/en", 
+		  "Tags":"fresh, local, imported, processed, packaged, pre-made meals,, value-added products, essentials, non-food items"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.66685,45.941906]},
+		"properties":{
+		  "id":104,
+		  "name":"Bulk Barn",
+		  "Category":"Grocery",
+		  "Location":"1055 Prospect St. Fredericton",
+		  "About":"Bulk Food",
+		  "More info":"http://www.bulkbarn.ca/en-ca/locations/nb/bulk-food-fredericton-2.html", 
+		  "Tags":"imported, dry goods, bulk"}},
+		 
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.649614,45.991934]},
+		"properties":{
+		  "id":105,
+		  "name":"M&M Meat Shop (Brookside Dr.)",
+		  "Category":"Grocery",
+		  "Location":"500 Brookside Dr. Fredericton",
+		  "About":"Meat Shop",
+		  "More info":"https://www.mmmeatshops.com/en/index.asp", 
+		  "Tags":"meats, value-added products, frozen, imported"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.657167,45.940737]},
+		"properties":{
+		  "id":106,
+		  "name":"M&M Meat Shop (Regent St.)",
+		  "Category":"Grocery",
+		  "Location":"1111 Regent St. Fredericton",
+		  "About":"Grocery",
+		  "More info":"https://www.mmmeatshops.com/en/index.asp", 
+		  "Tags":"meats, value-added products, frozen, imported"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.646262,45.951856]},
+		"properties":{
+		  "id":107,
+		  "name":"Friendship Convenience Store",
+		  "Category":"Grocery",
+		  "Location":"606 Albert St. Fredericton",
+		  "About":"Asian Market",
+		  "More info":"https://www.facebook.com/pages/Friendship-Convenience-Store/138415689585273", 
+		  "Tags":"value-added products, frozen, imported, ethnic"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.647815,45.961386]},
+		"properties":{
+		  "id":108,
+		  "name":"Aura Whole Foods",
+		  "Category":"Grocery",
+		  "Location":"199 Westmorland St. Fredericton",
+		  "About":"Health Food Store",
+		  "More info":"https://www.facebook.com/AuraWholeFoods", 
+		  "Tags":"value-added products, fresh, local, imported, organic"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.685295,45.951769]},
+		"properties":{
+		  "id":109,
+		  "name":"Real Food Connections",
+		  "Category":"Grocery",
+		  "Location":"880 Hanwell Rd. Unit 304, Fredericton",
+		  "About":"Local Grocery",
+		  "More info":"http://realfoodconnections.ca/", 
+		  "Tags":"value-added products, fresh, local, imported, organic"}},
+		 
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.631148,45.97183]},
+		"properties":{
+		  "id":110,
+		  "name":"St. Mary's Supermarket",
+		  "Category":"Grocery",
+		  "Location":"150 Cliffe St. Fredericton",
+		  "About":"Independent Grocery",
+		  "More info":"http://www.stmarysretail.com/", 
+		  "Tags":"value-added products, fresh, local, imported, pre-made meals, essentials, non-food items"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.720156,45.927667]},
+		"properties":{
+		  "id":111,
+		  "name":"Hanwell Village Mart",
+		  "Category":"Grocery",
+		  "Location":"1761A NB-640, Fredericton",
+		  "About":"Independent Grocery",
+		  "More info":"https://www.facebook.com/HanwellVillageMart?fref=ts", 
+		  "Tags":"value-added products, non-food items, processed, packaged,imported,essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.657167,45.940737]},
+		"properties":{
+		  "id":112,
+		  "name":"Mail N Mart India's Groceries",
+		  "Category":"Grocery",
+		  "Location":"1111 Regent St. Fredericton",
+		  "About":"Asian Grocery",
+		  "More info":null, 
+		  "Tags":"convenience food, value-added products, processed, packaged, imported, ethnic, pre-made meals"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.650259,45.976454]},
+		"properties":{
+		  "id":113,
+		  "name":"Peters Meat Market",
+		  "Category":"Grocery",
+		  "Location":"230 Main St. Fredericton",
+		  "About":"Meat Shop",
+		  "More info":"https://www.facebook.com/pages/Peters-Meat-Seafood-Lobster-Market/157275304308713?fref=ts", 
+		  "Tags":"fresh, local, value-added products, non-food items, processed, packaged, imported, essentials, pre-made meals"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.673061,45.943732]},
+		"properties":{
+		  "id":114,
+		  "name":"Scoop 'n' Save",
+		  "Category":"Grocery",
+		  "Location":"934 Prospect St. Fredericton",
+		  "About":"Bulk Food",
+		  "More info":null, 
+		  "Tags":"imported, dry goods, bulk"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.650552,45.961188]},
+		"properties":{
+		  "id":115,
+		  "name":"True Food Organics",
+		  "Category":"Grocery",
+		  "Location":"207 Charlotte St. Fredericton",
+		  "About":"Health Food Store",
+		  "More info":null, 
+		  "Tags":"fresh, local, value-added products, imported, organic"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.645562,45.962591]},
+		"properties":{
+		  "id":116,
+		  "name":"Victory Meat Market",
+		  "Category":"Grocery",
+		  "Location":"334 King St. Fredericton",
+		  "About":"Independent Grocery",
+		  "More info":"http://www.victorymeatmarket.ca/", 
+		  "Tags":"fresh, local, value-added products, imported, organic, processed, packaged, pre-made meals, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.65828,45.980637]},
+		"properties":{
+		  "id":117,
+		  "name":"Dollarama (Main St.)",
+		  "Category":"Grocery",
+		  "Location":"102 Main St. Fredericton",
+		  "About":"Discount Store",
+		  "More info":"http://www.dollarama.com/", 
+		  "Tags":"processed, imported, packaged, non-food items"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.656882,45.956677]},
+		"properties":{
+		  "id":118,
+		  "name":"Dollarama (Smythe St.)",
+		  "Category":"Grocery",
+		  "Location":"528 Smythe St. Fredericton",
+		  "About":"Discount Store",
+		  "More info":"http://www.dollarama.com/", 
+		  "Tags":"processed, imported, packaged, non-food items"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.667448,45.942215]},
+		"properties":{
+		  "id":119,
+		  "name":"Dollarama (Prospect St.)",
+		  "Category":"Grocery",
+		  "Location":"1033 Prospect St. Fredericton",
+		  "About":"Discount Store",
+		  "More info":"http://www.dollarama.com/", 
+		  "Tags":"processed, imported, packaged, non-food items"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.668745,45.943349]},
+		"properties":{
+		  "id":120,
+		  "name":"Giant Tiger (Smythe St.)",
+		  "Category":"Grocery",
+		  "Location":"1160 Smythe St. Fredericton",
+		  "About":"Department Store",
+		  "More info":"http://www.gianttiger.com/home.do", 
+		  "Tags":"processed, imported, packaged, non-food items, fresh, essentials, pre-made meals, value-added products"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.630314,45.968255]},
+		"properties":{
+		  "id":121,
+		  "name":"Giant Tiger (Union St.)",
+		  "Category":"Grocery",
+		  "Location":"598 Union St. Fredericton",
+		  "About":"Deparment Store",
+		  "More info":"http://www.gianttiger.com/home.do", 
+		  "Tags":"processed, imported, packaged, non-food items, pre-made meals, value-added products, essentials, fresh"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.664103,45.934016]},
+		"properties":{
+		  "id":122,
+		  "name":"Wal-Mart (Regent Mall)",
+		  "Category":"Grocery",
+		  "Location":"1399 Regent St. Fredericton",
+		  "About":"Department Store",
+		  "More info":"http://www.walmart.ca/en/store/3032", 
+		  "Tags":"processed, imported, packaged, non-food items, pre-made meals, value-added products, essentials, fresh"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.626349,45.988966]},
+		"properties":{
+		  "id":123,
+		  "name":"Wal-Mart (Two Nations Crossing)",
+		  "Category":"Grocery",
+		  "Location":"125 Two Nations Crossing Fredericton",
+		  "About":"Department Store",
+		  "More info":"http://www.walmart.ca/en", 
+		  "Tags":"processed, imported, packaged, non-food items, pre-made meals, value-added products, essentials, fresh"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.616774,45.916539]},
+		"properties":{
+		  "id":125,
+		  "name":"Saigon Department Store",
+		  "Category":"Grocery",
+		  "Location":"495 Wilsey Rd. Fredericton",
+		  "About":"Independent Grocery",
+		  "More info":null, 
+		 "Tags":"processed, imported, packaged, pre-made meals, value-added products, ethnic"}}
+	 
+]}

@@ -1,0 +1,360 @@
+{ 
+    "type": "FeatureCollection",
+	"properties":
+		{
+		  "name":"Convenience Stores",
+		  "description": "This feature collection contains all convenience stores that carry food items for the Fredericton and surrounding areas"
+		},
+  
+	 "features": 
+	 [
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.622534,45.930642]},
+		"properties":{
+		  "id":66,
+		  "name":"Boat Club Mainway Convenience Store",
+		  "Category":"Convenience",
+		  "Location":"396 Lincoln Rd. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.658535,45.980512]},
+		"properties":{
+		  "id":67,
+		  "name":"Brookside Circle K",
+		  "Category":"Convenience",
+		  "Location":"95 Main St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.641624,45.945239]},
+		"properties":{
+		  "id":68,
+		  "name":"Campus Convenience",
+		  "Category":"Convenience",
+		  "Location":"UNB Student Union Building, 21 Pacey Dr. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.60413,45.966137]},
+		"properties":{
+		  "id":69,
+		  "name":"Canada St. Variety",
+		  "Category":"Convenience",
+		  "Location":"13 Canada St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.668341,45.942099]},
+		"properties":{
+		  "id":70,
+		  "name":"Canadian Tire Gas Bar",
+		  "Category":"Convenience",
+		  "Location":"1025 Prospect St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.641317,45.960752]},
+		"properties":{
+		  "id":71,
+		  "name":"Carleton News Stop",
+		  "Category":"Convenience",
+		  "Location":"520 King St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials, fresh baked goods"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.633815,45.936708]},
+		"properties":{
+		  "id":72,
+		  "name":"Dari Shoppes",
+		  "Category":"Convenience",
+		  "Location":"502 Forest Hill Rd. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.715216,45.977873]},
+		"properties":{
+		  "id":73,
+		  "name":"Douglas Irving Convenience",
+		  "Category":"Convenience",
+		  "Location":"631 Clements Dr. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.656161,45.957253]},
+		"properties":{
+		  "id":74,
+		  "name":"Dundonald Ultramar",
+		  "Category":"Convenience",
+		  "Location":"131 Dundonald St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.652621,45.978047]},
+		"properties":{
+		  "id":75,
+		  "name":"Fulton Heights Ultramar",
+		  "Category":"Convenience",
+		  "Location":"175 Main St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.689569,45.944413]},
+		"properties":{
+		  "id":76,
+		  "name":"Greenway Convenience",
+		  "Category":"Convenience",
+		  "Location":"130 Bishop Dr. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.57988,45.90586]},
+		"properties":{
+		  "id":77,
+		  "name":"Jun's Mini Mart",
+		  "Category":"Convenience",
+		  "Location":"1853 Lincoln Rd. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.582056,45.907486]},
+		"properties":{
+		  "id":78,
+		  "name":"Lincoln Circle K Big Stop",
+		  "Category":"Convenience",
+		  "Location":"1769 Lincoln Rd. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials, pre-made lunches"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.643293,45.97467]},
+		"properties":{
+		  "id":79,
+		  "name":"Main St. Esso, Car Wash & Convenience Store",
+		  "Category":"Convenience",
+		  "Location":"361 Main St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.704913,45.937819]},
+		"properties":{
+		  "id":80,
+		  "name":"MJ Trading Corporation",
+		  "Category":"Convenience",
+		  "Location":"1610 Hanwell Rd. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.593111,45.97932]},
+		"properties":{
+		  "id":81,
+		  "name":"Marysville Circle K",
+		  "Category":"Convenience",
+		  "Location":"253 Canada St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials, pre-made lunches"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.648848,45.992728]},
+		"properties":{
+		  "id":82,
+		  "name":"Needs Convenience (Brookside Dr.)",
+		  "Category":"Convenience",
+		  "Location":"530 Brookside Dr. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials, pre-made lunches"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.651844,45.98883]},
+		"properties":{
+		  "id":83,
+		  "name":"Needs Convenience (Douglas Ave.)",
+		  "Category":"Convenience",
+		  "Location":"1050 Douglas Ave. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.563498,45.832265]},
+		"properties":{
+		  "id":84,
+		  "name":"Nevers Rd. Convenience Store",
+		  "Category":"Convenience",
+		  "Location":"627 Nevers Rd. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.639695,45.960388]},
+		"properties":{
+		  "id":85,
+		  "name":"Patel's Catering",
+		  "Category":"Convenience",
+		  "Location":"595 King St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.611935,45.939045]},
+		"properties":{
+		  "id":86,
+		  "name":"Princess Margaret Circle K",
+		  "Category":"Convenience",
+		  "Location":"536 Riverside Dr. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.658444,45.938655]},
+		"properties":{
+		  "id":87,
+		  "name":"Regent Street Circle K",
+		  "Category":"Convenience",
+		  "Location":"1169 Regent St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.685337,45.888313]},
+		"properties":{
+		  "id":88,
+		  "name":"Samimi's Convenience New Maryland",
+		  "Category":"Convenience",
+		  "Location":"429 New Maryland Hwy",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.611253,45.938075]},
+		"properties":{
+		  "id":89,
+		  "name":"Scholten's Grocery",
+		  "Category":"Convenience",
+		  "Location":"562 Riverside Dr. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials, pre-made lunches"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.669106,45.98259]},
+		"properties":{
+		  "id":90,
+		  "name":"Scholten's Grocery & Video",
+		  "Category":"Convenience",
+		  "Location":"325 Sunset Dr. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials, pre-made lunches"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.750145,45.905878]},
+		"properties":{
+		  "id":91,
+		  "name":"Scholten's 6-12",
+		  "Category":"Convenience",
+		  "Location":"2049 NB-640 Hanwell",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials, pre-made lunches"}},
+		
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.669236,45.942754]},
+		"properties":{
+		  "id":92,
+		  "name":"Smythe St. Esso",
+		  "Category":"Convenience",
+		  "Location":"1190 Smythe St. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.621483,45.921189]},
+		"properties":{
+		  "id":93,
+		  "name":"Southwood Convenience Store & Restaurant",
+		  "Category":"Convenience",
+		  "Location":"25 Hubbard Rd. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials, pre-made lunches"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.662331,45.963739]},
+		"properties":{
+		  "id":94,
+		  "name":"Sunshine Foods",
+		  "Category":"Convenience",
+		  "Location":"7 Brookmount Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature",
+		"geometry":{"type":"Point","coordinates":[-66.635216,45.953925]},
+		"properties":{
+		  "id":95,
+		  "name":"University Rite Stop",
+		  "Category":"Convenience",
+		  "Location":"292 University Ave. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials, asian grocery"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.5902291,45.9529171]},
+		"properties":{
+		  "id":96,
+		  "name":"Wilson's Quik Mart",
+		  "Category":"Convenience",
+		  "Location":"336 Greenwood Dr. Fredericton",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}},
+		  
+		{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.850686,45.951886]},
+		"properties":{
+		  "id":97,
+		  "name":"Wulastukw Convenience",
+		  "Category":"Convenience",
+		  "Location":"77 French Village Rd. Kingsclear",
+		  "About":"Convenience",
+		  "More info":null, 
+		  "Tags":"convenience foods, processed, packaged, imported, essentials"}}
+]}

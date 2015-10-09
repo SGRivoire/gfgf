@@ -1,0 +1,74 @@
+{ 
+    "type": "FeatureCollection",
+	"properties":
+		{
+		  "name":"Food Programmes",
+		  "description": "This feature collection the different Food Programme locations in Fredericton"
+		},
+  
+	 "features": 
+	 [
+	 {"type":"Feature",
+	 "geometry":{"type":"Point","coordinates":[-66.654171,45.964573]},
+	"properties":{
+	  "id":136,
+	  "name":"Fredericton Community Kitchen",
+	  "Category":"Food Programme",
+	  "Location":"65 Brunswick St. Fredericton",
+	  "About":"Meal Programme",
+	  "More info":"http://frederictoncommunitykitchen.com/", 
+	  "Tags":"food skills, training, hands-on, low cost, free"}},
+	  
+	{"type":"Feature",
+	"geometry":{"type":"Point","coordinates":[-66.646501,45.975238]},
+	"properties":{
+	  "id":137,
+	  "name":"John Howard Society (Fredericton Community Kitchen)",
+	  "Category":"Food Programme",
+	  "Location":"294 Main St. Fredericton",
+	  "About":"Meal Programme",
+	  "More info":null, 
+	  "Tags":"food skills, training, hands-on, low cost, free"}},
+	  
+	{"type":"Feature",
+	"geometry":{"type":"Point","coordinates":[-66.654171,45.964573]},
+	"properties":{
+	  "id":138,
+	  "name":"Meals on Wheels of Fredericton",
+	  "Category":"Food Programme",
+	  "Location":"65 Brunswick St. Fredericton",
+	  "About":"Meal Programme",
+	  "More info":"http://www.frederictonmealsonwheels.ca/", 
+	  "Tags":"community service"}},
+	
+	{"type":"Feature",
+	"geometry":{"type":"Point","coordinates":[-66.608247,45.935836]},
+	"properties":{
+	  "id":139,
+	  "name":"Greener Village Community Food Centre",
+	  "Category":"Food Programme",
+	  "Location":"686 Riverside Dr. Fredericton",
+	  "About":"Food Bank",
+	  "More info":"http://frederictonfoodbank.wordpress.com/", 
+	  "Tags":"food skills, training, hands-on, low cost, free, emergency food program"}},
+	
+	{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.633029,45.9851]},
+	"properties":{
+	  "id":140,
+	  "name":"Salvation Army Food Bank",
+	  "Category":"Food Programme",
+	  "Location":"531 St. Mary's St. Fredericton",
+	  "About":"Food Bank",
+	  "More info":"https://www.facebook.com/safredericton", 
+	  "Tags":"emergency food program"}},
+	  
+	{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.646061,45.944262]},
+	"properties":{
+	  "id":141,
+	  "name":"STU/UNB Food Bank",
+	  "Category":"Food Programme",
+	  "Location":"59 Dineen Dr. Fredericton",
+	  "About":"Food Bank",
+	  "More info":null, 
+	  "Tags":"emergency food program, student access"}},
+]}
